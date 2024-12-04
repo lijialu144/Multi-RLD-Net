@@ -1,3 +1,8 @@
 # Multi-RLD-Net
 
-we will update the code of the Multi-RLD-Net after publishing
+#Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
+##Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
+###Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
+####Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
+#####Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
+######Using difference features effectively: A multi-task network for exploring change areas and change moments in time series remote sensing images
