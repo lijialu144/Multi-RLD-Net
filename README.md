@@ -27,7 +27,7 @@ Two datasets, UTRNet dataset and DynamicEarthNet dataset, are used for experimen
 
 UTRNet dataset: https://github.com/thebinyang/UTRNet<br>
 
-The DynamicEarthNet dataset original image an be downloaded： https://mediatum.ub.tum.de/1650201<br>
+The DynamicEarthNet dataset original image can be downloaded： https://mediatum.ub.tum.de/1650201<br>
 
 The DynamicEarthNet dataset used in our paper after processing can be download: 
 
