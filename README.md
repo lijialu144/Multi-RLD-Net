@@ -29,7 +29,7 @@ UTRNet dataset: https://github.com/thebinyang/UTRNet<br>
 
 The DynamicEarthNet dataset original image can be downloaded： https://mediatum.ub.tum.de/1650201<br>
 
-The DynamicEarthNet dataset used in our paper after processing can be download: 
+The DynamicEarthNet dataset used in our paper after processing can be download: https://pan.baidu.com/s/1zatEQIYVgMrcy1IDUnVrBw 提取码：1442 
 
 ### Training and Testing Multi-RLD-Net 
 
