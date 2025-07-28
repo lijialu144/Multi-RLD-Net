@@ -29,6 +29,8 @@ UTRNet dataset: https://github.com/thebinyang/UTRNet<br>
 
 The DynamicEarthNet dataset original image can be downloaded： https://mediatum.ub.tum.de/1650201<br>
 
+The UTRNetdataset used in our paper after processing can be download: https://pan.baidu.com/s/1zatEQIYVgMrcy1IDUnVrBw 提取码：1442 
+
 The DynamicEarthNet dataset used in our paper after processing can be download: https://pan.baidu.com/s/1zatEQIYVgMrcy1IDUnVrBw 提取码：1442 
 
 ### Training and Testing Multi-RLD-Net 
@@ -43,6 +45,20 @@ python Test_Multi_RLD_Net.py</code></pre>
 you can directly test our model by our provided training weights in best_model. 
 
 <pre><code id="copy-text">save_path = best_model + 'Dynamic_Multi_RLD_Net.pth'</code></pre>
+
+### Training and Testing RLD-Net on UTRNet 
+
+<pre><code id="copy-text">python Train_UTRNet.py
+python Test_UTRNet.py</code></pre>
+
+<img width="664" height="413" alt="image" src="https://github.com/user-attachments/assets/9ce781f9-ef18-45c3-b4f2-40a8f45ec1e6" />
+
+
+
+### Test our trained model results
+you can directly test our model by our provided training weights in best_model. 
+
+<pre><code id="copy-text">save_path = best_model + 'UTRNet_RLD_Net.pth'</code></pre>
 
 ### Citation 
 if you use this code for your research, please cite our papers. 
